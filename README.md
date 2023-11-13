@@ -12,4 +12,4 @@
 > ### Vue Js with Laravel CRM Sortware
 ![alt text](https://raw.githubusercontent.com/sourovpal/sourovpal/main/project/project-2.gif)
 
-> ### [++++++++++++++++++++++++++++++++++++ See More ++++++++++++++++++++++++++++++++++++](https://github.com/sourovpal/sourovpal/blob/main/see-more/README.md)
+> ### [++++++++++++++++ See More ++++++++++++++++](https://github.com/sourovpal/sourovpal/blob/main/see-more/README.md)
