@@ -17,20 +17,18 @@
   </a>
 </div>
 
-<!-- # My Projects
+### :woman_technologist: About Me :
 
-# About Me
-![alt text](https://raw.githubusercontent.com/sourovpal/sourovpal/main//profile.png)
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-> ### React Js with Django CRM Sortware
-![alt text](https://raw.githubusercontent.com/sourovpal/sourovpal/main/project/project-1.gif)
+- :zap: In my free time, I solve problems on GeeksforGeeks and Hackerrank.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/sourov-pal-2a78a1231/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](your-linkedin-url)
+---
+I have completed 5+ years in my profession, which I have been doing with great passion, excitement and happiness. I am here to share this experience with you. Let's take a look at what I can do - HTML, CSS, Javascript, jQuery, Ajax, React Js, Redux,  Next Js, Vue js, Vuex, Nuxt js, Bootstrap 4+, Tailwind Css , PHP,  Laravel, Node Js, Rest and Restful Api Develop,  MySql, Mongodb, Sqlight, Linux,  Now i am Learning Python I can provide the following services for all the above related items - Development - Management - Installing - Bug Fix - Deploy - Convert - Backup - Restore - Design & Redesign
+---
 
 
-> ### Vue Js with Laravel CRM Sortware
-![alt text](https://raw.githubusercontent.com/sourovpal/sourovpal/main/project/project-2.gif)
-
-> ### [++++++++++++++++ See More ++++++++++++++++](https://github.com/sourovpal/sourovpal/blob/main/see-more/README.md)
--->
 
 ---
 
