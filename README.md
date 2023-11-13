@@ -23,7 +23,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Hackerrank.
 
-- :mailbox:How to reach me: +88 01919852044 OR sourovpal35@gmail.com
+- :mailbox: How to reach me: +88 01919852044 OR sourovpal35@gmail.com
 
 I have completed 5+ years in my profession, which I have been doing with great passion, excitement and happiness. I am here to share this experience with you. Let's take a look at what I can do - HTML, CSS, Javascript, jQuery, Ajax, React Js, Redux,  Next Js, Vue js, Vuex, Nuxt js, Bootstrap 4+, Tailwind Css , PHP,  Laravel, Node Js, Rest and Restful Api Develop,  MySql, Mongodb, Sqlight, Linux,  Now i am Learning Python I can provide the following services for all the above related items - Development - Management - Installing - Bug Fix - Deploy - Convert - Backup - Restore - Design & Redesign
 
