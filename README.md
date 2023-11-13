@@ -1,4 +1,4 @@
-<center># About Me</center>
+# About Me
 ![alt text](https://raw.githubusercontent.com/sourovpal/sourovpal/main//profile.png)
 
 
