@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" style="display: flex;justify-content: center;align-content: center;">
-  <a href="tel:+8801919852044">
+  <a href="[tel:](https://wa.me/+8801919852044)">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/sourov-pal-2a78a1231/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
