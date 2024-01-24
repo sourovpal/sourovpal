@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/sourovpal/sourovpal/main/tenor.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/sourovpal/sourovpal/main/tenor.gif" width="300"/>
 </div>
 
 <div id="badges" style="display: flex;justify-content: center;align-content: center;">
