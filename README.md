@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/sourovpal/sourovpal/main/tenor.gif" width="300"/>
+  <img src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif" width="300"/>
 </div>
+<br><br>
 
 <div id="badges" style="display: flex;justify-content: center;align-content: center;">
   <a href="https://wa.me/+8801919852044">
