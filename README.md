@@ -59,5 +59,7 @@ I have completed 5+ years in my profession, which I have been doing with great p
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=sourovpal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourovpal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
