@@ -28,7 +28,7 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 
 - 💼 **Software Engineer** specializing in full-stack web development
 - 🔧 **DevOps Engineer** with infrastructure and deployment expertise
-- 🌱 Currently learning **Python** and deepening **DevOps practices**
+- 🚀 Currently working as a senior software engineer in **Powerman Local (Electrifying Australia)**
 - ⚡ Problem-solving enthusiast on **GeeksforGeeks** and **Hackerrank**
 - 📫 **Contact:** +8801822022892 | sourovpal35@gmail.com
 
@@ -99,7 +99,6 @@ I provide comprehensive solutions across the development lifecycle:
 ## 🔄 Current Focus
 
 - 🤖 Enhancing DevOps skills with Kubernetes and Terraform
-- 🐍 Expanding Python expertise for automation and AI/ML
 - ☁️ Deepening cloud architecture knowledge (AWS/Azure)
 - ⚡ Optimizing microservices architecture
 - 🔐 Security best practices implementation
