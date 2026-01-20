@@ -77,13 +77,13 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 
 ## 📁 Project Links Summary
 
-| Project Name                  | Contribution         | Technologies                                    | Project Link | Status                            |
-|-------------------------------|----------------------|-------------------------------------------------|--------------|-----------------------------------|
-| CRM                           | Full Stack           | Angular, .Net Core, Web API, MySQL              | -            | ✅ Live                           |
-| Task Management System        | Full Stack           | Vue.Js, Laravel, MySQL                          | -            | ✅ Live                           |
-| Microservices Pipeline        | DevOps               | Docker, Kubernetes, AWS                         | -            | 🔧 Active                         |
-| HRM                           | Full Stack           | Angular, .Net Core, Web Api, MySql,             | -            | ✅ Completed                      |
-| ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | -            | 🔄 On Going                       |
+| Project Name                  | Contribution         | Technologies                                    | Project Link                                     | Status                            |
+|-------------------------------|----------------------|-------------------------------------------------|--------------------------------------------------|-----------------------------------|
+| CRM                           | Full Stack           | Angular, .Net Core, Web API, MySQL              | [Visit](http://app.workrobot.com.au)             | ✅ Live                           |
+| Task Management System        | Full Stack           | Vue.Js, Laravel, MySQL                          | -                                                | ✅ Live                           |
+| Microservices Pipeline        | DevOps               | Docker, Kubernetes, AWS                         | -                                                | 🔧 Active                         |
+| HRM                           | Full Stack           | Angular, .Net Core, Web Api, MySql,             | -                                                | ✅ Live                           |
+| ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | -                                                | 🔄 On Going                       |
 
 
 ## 💼 Professional Services
