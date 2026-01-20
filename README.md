@@ -83,7 +83,7 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 | Task Management System        | Full Stack           | Vue.Js, Laravel, MySQL                          | [Link](#)    | ✅ Live                           |
 | Microservices Pipeline        | DevOps               | Docker, Kubernetes, AWS                         | [Link](#)    | 🔧 Active                         |
 | HRM                           | Full Stack           | Vue.js, Laravel, MySql                          | [Link](#)    | ✅ Complete                       |
-| ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | [Link](#)    | 🔄 Development: On Going          |
+| ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | [Link](#)    | 🔄 On Going                       |
 
 
 ## 💼 Professional Services
