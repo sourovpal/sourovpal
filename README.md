@@ -77,18 +77,18 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 
 I provide comprehensive solutions across the development lifecycle:
 
-### **Development**
+### 🛠️ **Development**
 - Full-stack web application development
 - REST/RESTful API design & implementation
 - Custom CMS and ERP solutions
 
-### **DevOps & Deployment**
+### ⚡**DevOps & Deployment**
 - CI/CD pipeline setup and management
 - Containerization with Docker
 - Cloud infrastructure management
 - Automated deployment strategies
 
-### **Maintenance & Support**
+### 💻 **Maintenance & Support**
 - Bug fixes and performance optimization
 - Database backup and restoration
 - System migrations and updates
