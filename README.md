@@ -28,7 +28,7 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 
 - 💼 **Software Engineer** specializing in full-stack web development
 - 🔧 **DevOps Engineer** with infrastructure and deployment expertise
-- 🚀 Currently working as a senior software engineer in **Powerman Local (Electrifying Australia)**
+- 🚀 Currently working as a **Senior Software Engineer** in Powerman Local (Electrifying Australia)
 - ⚡ Problem-solving enthusiast on **GeeksforGeeks** and **Hackerrank**
 - 📫 **Contact:** +8801822022892 | sourovpal35@gmail.com
 
