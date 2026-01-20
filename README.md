@@ -80,9 +80,9 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 | Project Name                  | Contribution         | Technologies                                    | Project Link                                     | Status                            |
 |-------------------------------|----------------------|-------------------------------------------------|--------------------------------------------------|-----------------------------------|
 | CRM                           | Full Stack           | Angular, .Net Core, Web API, MySQL              | [Visit](http://app.workrobot.com.au)             | ✅ Live                           |
-| Task Management System        | Full Stack           | Vue.Js, Laravel, MySQL                          | -                                                | ✅ Live                           |
+| Task Management System        | Full Stack           | Vue.Js, Laravel, MySQL                          | Protected By Password                            | ✅ Live                           |
 | Microservices Pipeline        | DevOps               | Docker, Kubernetes, AWS                         | -                                                | 🔧 Active                         |
-| HRM                           | Full Stack           | Angular, .Net Core, Web Api, MySql,             | -                                                | ✅ Live                           |
+| HRM                           | Full Stack           | Angular, .Net Core, Web Api, MySql,             | Protected By Password                            | ✅ Live                           |
 | ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | -                                                | 🔄 On Going                       |
 
 
