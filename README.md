@@ -119,6 +119,6 @@ I'm always open to discussing **new projects**, **creative ideas**, or opportuni
   
   📧 **Email:** sourovpal35@gmail.com  
   📱 **Phone/WhatsApp:** +8801822022892  
-  💼 **LinkedIn:** [Sourov Pal](https://www.linkedin.com/in/sourov-pal-2a78a1231/)
+  💼 **LinkedIn:** [Sourov Pal](https://www.linkedin.com/in/sourov-pal/)
   
 </div>
