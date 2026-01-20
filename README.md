@@ -75,6 +75,17 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 ![Node Exporter](https://img.shields.io/badge/Node_Exporter-4A154B?style=for-the-badge&logo=prometheus&logoColor=white)
 ![cAdvisor](https://img.shields.io/badge/cAdvisor-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 📁 Project Links Summary
+
+| Project Name                  | Contribution | Technologies              | Project Link | Status      |
+|-------------------------------|----------------------|-------------------------------------------------|--------------|-----------------------------------|
+| CRM                           | Full Stack           | Angular, .Net Core, Web API, MySQL              | [Link](#)    | ✅ Live                           |
+| Task Management System        | Full Stack           | Vue.Js, Laravel, MySQL                          | [Link](#)    | ✅ Live                           |
+| Microservices Pipeline        | DevOps               | Docker, Kubernetes, AWS                         | [Link](#)    | 🔧 Active                         |
+| HRM                           | Full Stack           | Vue.js, Laravel, MySql                          | [Link](#)    | ✅ Complete                       |
+| ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | [Link](#)    | 🔄 Development: On Going          |
+
+
 ## 💼 Professional Services
 
 I provide comprehensive solutions across the development lifecycle:
