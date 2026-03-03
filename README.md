@@ -80,11 +80,11 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 | Project Name                  | Contribution         | Technologies                                    | Project Link                                     | Status                            |
 |-------------------------------|----------------------|-------------------------------------------------|--------------------------------------------------|-----------------------------------|
 | CRM                           | Full Stack           | Angular, .Net Core, Web API, MySQL              | [Visit](http://app.workrobot.com.au)             | ✅ Live                           |
-| Task Management System        | Full Stack           | Vue.Js, Laravel, MySQL                          | Protected By Password                            | ✅ Live                           |
+| Task Management System        | Full Stack           | React.Js, Laravel, MySQL                          | Protected By Password                            | ✅ Live                           |
 | Microservices Pipeline        | DevOps               | Docker, Kubernetes, AWS                         | -                                                | 🔧 Active                         |
 | HRM                           | Full Stack           | Angular, .Net Core, Web Api, MySql,             | Protected By Password                            | ✅ Live                           |
 | ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | -                                                | 🔄 On Going                       |
-| HRM                           | Full Stack           | Laravel, MySql,                                 | [Visit](https://app.powermanlocals.com/)         | ✅ Live                           |
+| HRM                           | Full Stack           | Laravel, MySql, React.Js                        | [Visit](https://app.powermanlocals.com/)         | ✅ Live                           |
 
 
 ## 💼 Professional Services
