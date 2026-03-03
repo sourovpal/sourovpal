@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-With **5+ years of professional experience**, I'm a passionate Full Stack Developer specializing in modern web technologies. Currently expanding my expertise in **DevOps Engineering** with 1 year of hands-on experience.
+With **5+ years of professional experience**, I'm a passionate Full Stack Developer specializing in modern web technologies. Currently expanding my expertise in **DevOps Engineering** with 1.5+ year of hands-on experience.
 
 - 💼 **Software Engineer** specializing in full-stack web development
 - 🔧 **DevOps Engineer** with infrastructure and deployment expertise
