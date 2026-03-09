@@ -85,6 +85,7 @@ With **5+ years of professional experience**, I'm a passionate Full Stack Develo
 | HRM                           | Full Stack           | Angular, .Net Core, Web Api, MySql,             | Protected By Password                            | ✅ Live                           |
 | ERP                           | Full Stack / DevOps  | Angular, .Net Core, Web Api, MySql, MongoDB     | -                                                | 🔄 On Going                       |
 | HRM                           | Full Stack           | Laravel, MySql, React.Js                        | [Visit](https://app.powermanlocals.com/)         | ✅ Live                           |
+| HPL Machtronic Co Ltd         | Full Stack           | Laravel, MySql                                  | [Visit]([https://app.powermanlocals.com/](https://hplserver.wayscloud.com/)) | ✅ Live |
 
 
 ## 💼 Professional Services
